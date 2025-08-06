@@ -31,7 +31,7 @@ uv run mcp install main.py
 
 3. Install Dependencies
 
-Use uv to install all required packages from requirements.txt:
+   Use uv to install all required packages from requirements.txt:
 ```bash
 uv pip install -r requirements.txt
 ```
